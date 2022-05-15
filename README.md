@@ -13,7 +13,6 @@ If Else
 # Arrays & Loops
 
 ## Arrays
--
 Syntax to declare an array is a pair of square brackets.
 ```
 let myArray = [];
