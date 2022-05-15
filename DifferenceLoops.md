@@ -27,5 +27,5 @@ do
 }
 while(!done);
 ```
-This loop is almost the same as a while-loop but I would prefer this when I need something done ATLEAST ONCE before I start verifying whatever it is that would make me wanna loop and do that code again.
+This loop is almost the same as a while-loop but I would prefer this when I need something done `ATLEAST ONCE` before I start verifying whatever it is that would make me wanna loop and do that code again.
 Example: ask a user for an input for the first time and then validate it. If wrong input given then loop back and ask for input again
