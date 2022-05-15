@@ -21,7 +21,7 @@ while(!done)
 ```
 I would use this loop when I am `NOT SURE how many ITERATIONS` I might need to carry out. 
 
--Examples: Waiting for user to input correct input values and keep looping until he/she inputs the proper value.
+- Examples: Waiting for user to input correct input values and keep looping until he/she inputs the proper value.
 
 
 
@@ -36,4 +36,4 @@ while(!done);
 ```
 This loop is almost the same as a while-loop but I would prefer this when I need something done `ATLEAST ONCE` before I start verifying whatever it is that would make me wanna loop and do that code again.
 
--Example: ask a user for an input for the first time and then validate it. If wrong input given then loop back and ask for input again
+- Example: ask a user for an input for the first time and then validate it. If wrong input given then loop back and ask for input again
