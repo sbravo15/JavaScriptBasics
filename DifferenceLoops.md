@@ -1,5 +1,6 @@
 These are the reasons I would choose one over the other:
 
+
 ### For-loop Syntax:
 ```
 for( int i = 0; i > 10; i++)
@@ -10,6 +11,7 @@ for( int i = 0; i > 10; i++)
 I would use a for loop for the reason that I may `KNOW the NUMBER OF ITERATIONS` I need to do and I have an INCREMENTING variable which can be handy sometimes.
 
 
+
 ### While-loop Syntax:
 ```
 while(!done)
@@ -18,6 +20,9 @@ while(!done)
 }
 ```
 I would use this loop when I am `NOT SURE how many ITERATIONS` I might need to carry out. Examples: Waiting for user to input correct input values and keep looping until he/she inputs the proper value.
+
+
+
 
 ### Do-While loop Syntax:
 ```
